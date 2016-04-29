@@ -1,0 +1,9 @@
+Hervé BOUTEMY <herve.bout...@free.fr>
+Paul Benedict <pbened...@apache.org>
+captainslow <srinivas.nag...@gmail.com>
+Michael Lemler <michael.lem...@namics.com>
+Robert Mark Bram <robertmarkb...@gmail.com>
+captainslow <srinivas.nag...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Stephen Connolly <stephen.alan.conno...@gmail.com>

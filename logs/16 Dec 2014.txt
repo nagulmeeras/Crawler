@@ -1,0 +1,11 @@
+Johannes Schneider <maili...@cedarsoft.com>
+"Mark Derricutt" <m...@talios.com>
+Stephane Nicoll <stephane.nic...@gmail.com>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Gary Gregory <garydgreg...@gmail.com>
+Alexis Morelle <Alexis.More...@alcatel-lucent.com>
+Emilio Lopez <emiliol...@gmail.com>
+Melvyn de Kort <m.de.k...@portbase.com>
+Matt Stephenson <matts...@mattstep.net>
+Laird Nelson <ljnel...@gmail.com>
+Fábio Franco <fabiofranco....@gmail.com>

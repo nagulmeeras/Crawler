@@ -1,0 +1,17 @@
+Barrie Treloar <baerr...@gmail.com>
+Jeff <predato...@gmail.com>
+George Wilson <rmws...@gmail.com>
+Jeff Jensen <jeffjen...@upstairstechnology.com>
+Tamás Cservenák <ta...@cservenak.net>
+progosch <progo...@gmail.com>
+"Robert Scholte" <rfscho...@apache.org>
+"Robert Scholte" <rfscho...@apache.org>
+Mikael Petterson <mikael.petter...@ericsson.com>
+Dan Tran <dant...@gmail.com>
+"S. Ali Tokmen" <nos...@alishomepage.com>
+Mikael Petterson <mikael.petter...@ericsson.com>
+Torsten Stolpmann <stolpm...@verit.de>
+Adrien Ruffié <adriennolar...@hotmail.fr>
+"Manfred Moser" <manf...@simpligility.com>
+Jason van Zyl <ja...@takari.io>
+Stephen Connolly <stephen.alan.conno...@gmail.com>

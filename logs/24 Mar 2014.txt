@@ -1,0 +1,20 @@
+Tony Chemit <che...@codelutin.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Baptiste Mathus <bmat...@batmat.net>
+Benson Margulies <bimargul...@gmail.com>
+Thomas Broyer <t.bro...@gmail.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Henrik Østerlund Gram <henrik.g...@gmail.com>
+mkarg <k...@quipsy.de>
+Anders Hammar <and...@hammar.net>
+Tony Chemit <tche...@apache.org>
+Curtis Rueden <ctrue...@wisc.edu>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Tony Chemit <tche...@apache.org>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Baptiste Mathus <bmat...@batmat.net>
+Thomas Broyer <t.bro...@gmail.com>
+Henrik Østerlund Gram <henrik.g...@gmail.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+William Ferguson <william.fergu...@xandar.com.au>
+mkarg <k...@quipsy.de>

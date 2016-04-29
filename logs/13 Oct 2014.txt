@@ -1,0 +1,17 @@
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Robert Kuropkat <rkurop...@t-sciences.com>
+Tony Jewell <tony.jew...@cregganna.com>
+Grégory Joseph <greg....@gmail.com>
+Tony Jewell <tony.jew...@cregganna.com>
+Barrie Treloar <baerr...@gmail.com>
+Johan Ekesparr <johan....@gmail.com>
+Bernd <e...@zusammenkunft.net>
+Barrie Treloar <baerr...@gmail.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+John Casey <jdca...@commonjava.org>
+"Robert Scholte" <rfscho...@apache.org>
+Anders Hammar <and...@hammar.net>
+John Casey <jdca...@apache.org>
+Thomas Broyer <t.bro...@gmail.com>
+David Dillard <ddill...@symantec.com>
+Tony Jewell <tony.jew...@cregganna.com>

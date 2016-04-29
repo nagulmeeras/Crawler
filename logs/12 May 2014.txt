@@ -1,0 +1,8 @@
+Nick Dimiduk <ndimi...@gmail.com>
+Dariusz Jurojc <dariusz.jur...@ekspert.biz>
+William Ferguson <william.fergu...@xandar.com.au>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Paul Benedict <pbened...@apache.org>
+sachi <sachikma...@yahoo.com>
+Simone Tripodi <simonetrip...@apache.org>
+Ron Wheeler <rwhee...@artifact-software.com>

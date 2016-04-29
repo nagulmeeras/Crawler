@@ -1,0 +1,6 @@
+David Hoffer <dhoff...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+James Tobin <jamesbto...@gmail.com>
+Alvin Reyes <alvin.jay.p.re...@gmail.com>
+David Hoffer <dhoff...@gmail.com>
+"Robert Scholte" <rfscho...@apache.org>

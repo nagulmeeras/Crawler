@@ -1,0 +1,13 @@
+John Miller <john.w.mil...@oracle.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Anders Hammar <and...@hammar.net>
+Arnaud Héritier <aherit...@gmail.com>
+Paul Benedict <pbened...@apache.org>
+"Lyons, Roy" <Roy.Ly...@cmegroup.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+rahulmishramail <rahul.mish...@wipro.com>
+"Will Hoover" <java.whoo...@gmail.com>
+John Miller <john.w.mil...@oracle.com>
+Anders Hammar <and...@hammar.net>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Adam Retter <adam.ret...@googlemail.com>

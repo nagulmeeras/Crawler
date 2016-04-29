@@ -1,0 +1,19 @@
+Thomas Broyer <t.bro...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Anders Hammar <and...@hammar.net>
+acostela <acostela1...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Jim Garrison <jim.garri...@nwea.org>
+Dan Tran <dant...@gmail.com>
+Alejandro.E...@miranda.com
+William Ferguson <william.fergu...@xandar.com.au>
+Baptiste Mathus <bmat...@batmat.net>
+hujirong <jirong...@gmail.com>
+Stephen More <stephen.m...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Laird Nelson <ljnel...@gmail.com>
+Alejandro.E...@miranda.com
+Jim Garrison <jim.garri...@nwea.org>
+Francesco Mari <mari.france...@gmail.com>
+"Robert Scholte" <rfscho...@apache.org>
+Alejandro.E...@miranda.com

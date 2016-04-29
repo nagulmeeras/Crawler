@@ -1,0 +1,24 @@
+Steve Cohen <sco...@javactivity.org>
+khmarba...@apache.org (Karl Heinz Marbaise)
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Andrew Todd <andrew.todd...@gmail.com>
+Mark Eggers <its_toas...@yahoo.com.INVALID>
+Gary Gregory <garydgreg...@gmail.com>
+David Karr <davidmichaelk...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+"Manfred Moser" <manf...@mosabuam.com>
+Vincent Zurczak <vincent.zurc...@linagora.com>
+Curtis Rueden <ctrue...@wisc.edu>
+Steve Cohen <sco...@javactivity.org>
+Garvin LeClaire <garvin.lecla...@gmail.com>
+Garvin LeClaire <garvin.lecla...@gmail.com>
+Steve Cohen <sco...@javactivity.org>
+Steve Cohen <sco...@javactivity.org>
+Anders Hammar <and...@hammar.net>
+Steve Cohen <sco...@javactivity.org>
+Andrew Davidson <adavids...@apple.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Mirko Friedenhagen <mfriedenha...@gmail.com>

@@ -1,0 +1,7 @@
+"Mark H. Wood" <mw...@IUPUI.Edu>
+Andrew Todd <andrew.todd...@gmail.com>
+"Mark Derricutt" <m...@talios.com>
+"Manfred Moser" <manf...@mosabuam.com>
+Adrien Ruffié <adriennolar...@hotmail.fr>
+Stephane Nicoll <stephane.nic...@gmail.com>
+Graham Leggett <minf...@sharp.fm>

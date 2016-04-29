@@ -1,0 +1,27 @@
+Wayne Fay <wayne...@gmail.com>
+Benson Margulies <bimargul...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+"rafal.krupinski@smtsoftware.com rafal.krupinski@smtsoftware.com" <rafal.krupin...@smtsoftware.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Anders Hammar <and...@hammar.net>
+Benson Margulies <bimargul...@apache.org>
+Bernd Eckenfels <e...@zusammenkunft.net>
+Barrie Treloar <baerr...@gmail.com>
+Sascha Vogt <sascha.v...@gmail.com>
+Benson Margulies <bimargul...@gmail.com>
+Daniel Pocock <dan...@pocock.com.au>
+Jordan Zimmerman <jor...@jordanzimmerman.com>
+"Mark Derricutt" <m...@talios.com>
+Joachim Van der Auwera <li...@progs.be>
+Venkata Suresh Kumar Pamidipati <suresh.pamidip...@oracle.com>
+Olivier Lamy <ol...@apache.org>
+Martin Gainty <mgai...@hotmail.com>
+Baptiste Mathus <bmat...@batmat.net>
+Howard <how...@renci.org>
+Howard <how...@renci.org>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+"Thorsten Heit" <thorsten.h...@vkb.de>
+"Thorsten Heit" <thorsten.h...@vkb.de>
+brandenber...@commcity.ch
+Thomas Broyer <t.bro...@gmail.com>
+"Robert Scholte" <rfscho...@apache.org>

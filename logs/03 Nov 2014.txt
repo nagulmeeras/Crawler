@@ -1,0 +1,12 @@
+Dan Tran <dant...@gmail.com>
+Alexander Wessel <A.Wes...@queo-group.com>
+Jason van Zyl <ja...@takari.io>
+Barrie Treloar <baerr...@gmail.com>
+Bernd Eckenfels <e...@zusammenkunft.net>
+Barrie Treloar <baerr...@gmail.com>
+khmarba...@apache.org (Karl Heinz Marbaise)
+Bernd <e...@zusammenkunft.net>
+"Mark Derricutt" <m...@talios.com>
+Barrie Treloar <baerr...@gmail.com>
+Joachim Van der Auwera <li...@progs.be>
+Stephen Connolly <stephen.alan.conno...@gmail.com>

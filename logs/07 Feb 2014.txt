@@ -1,0 +1,15 @@
+Reto Hablützel <ret...@rethab.ch>
+Jörg Schaible <joerg.schai...@gmx.de>
+Shahim Essaid <sha...@essaid.com>
+Thomas Broyer <t.bro...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Reto Hablützel <ret...@rethab.ch>
+"Robert Scholte" <rfscho...@apache.org>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Samuli Saarinen <samuli.saari...@remion.com>
+Reto Hablützel <ret...@rethab.ch>
+Ron Wheeler <rwhee...@artifact-software.com>
+sathixh <sathishkumar.maheswa...@in.bosch.com>
+Wayne Fay <wayne...@gmail.com>
+Olivier Lamy <ol...@apache.org>
+Martin Hoeller <mar...@xss.co.at>

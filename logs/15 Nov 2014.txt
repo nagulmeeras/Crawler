@@ -1,0 +1,5 @@
+Kristian Rosenvold <krosenv...@apache.org>
+herve.bout...@free.fr
+Bruce Albrecht <br...@zuhause.org>
+Robert Metzger <rmetz...@apache.org>
+Hervé Boutemy <hbout...@apache.org>

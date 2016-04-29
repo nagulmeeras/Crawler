@@ -1,0 +1,32 @@
+<org.apache.maven.u...@io7m.com>
+MK Tan <mktan...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Dan Tran <dant...@gmail.com>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Dan Tran <dant...@gmail.com>
+Maven User <maven.2.u...@gmail.com>
+Jason Swank <jsw...@sonatype.com>
+Dan Tran <dant...@gmail.com>
+Maven User <maven.2.u...@gmail.com>
+Alexander Kriegisch <Alexan...@Kriegisch.name>
+Baptiste Mathus ...@batmat.net>
+Maven User <maven.2.u...@gmail.com>
+Cintia Del Rio <miladyarte...@gmail.com>
+Cintia Del Rio <miladyarte...@gmail.com>
+Vladimir Piyanov <vladimir.piya...@gmail.com>
+Dan Tran <dant...@gmail.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Maven User <maven.2.u...@gmail.com>
+Maven User <maven.2.u...@gmail.com>
+Maven User <maven.2.u...@gmail.com>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Laird Nelson <ljnel...@gmail.com>
+<org.apache.maven.u...@io7m.com>
+Dan Tran <dant...@gmail.com>
+Maven User <maven.2.u...@gmail.com>
+Maven User <maven.2.u...@gmail.com>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Thomas Broyer <t.bro...@gmail.com>
+Baptiste Mathus <bmat...@batmat.net>

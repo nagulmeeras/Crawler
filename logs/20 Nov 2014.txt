@@ -1,0 +1,19 @@
+Jeroen Hoek <jer...@lable.org>
+Adam Retter <adam.ret...@googlemail.com>
+Kristian Rosenvold <kristian.rosenv...@gmail.com>
+"Mark Derricutt" <m...@talios.com>
+Paul Benedict <pbened...@apache.org>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+domi <d...@fortysix.ch>
+Kristian Rosenvold <kristian.rosenv...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Michael Osipov <micha...@apache.org>
+Ron Wheeler <rwhee...@artifact-software.com>
+Michael Osipov <micha...@apache.org>
+Jörg Hohwiller <jo...@j-hohwiller.de>
+Laird Nelson <ljnel...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>

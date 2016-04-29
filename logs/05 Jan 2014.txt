@@ -1,0 +1,22 @@
+Thomas Broyer <t.bro...@gmail.com>
+Jochen Wiedmann <jochen.wiedm...@gmail.com>
+Barrie Treloar <baerr...@gmail.com>
+Markus Karg <k...@quipsy.de>
+Markus Malkusch <mar...@malkusch.de>
+Kevin Krumwiede <kjk...@gmail.com>
+Benson Margulies <bimargul...@gmail.com>
+Adam Retter <adam.ret...@googlemail.com>
+Tommy Svensson <to...@natusoft.se>
+Laird Nelson <ljnel...@gmail.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Curtis Rueden <ctrue...@wisc.edu>
+"Mark Derricutt" <m...@talios.com>
+Martin Gainty <mgai...@hotmail.com>
+Thomas Broyer <t.bro...@gmail.com>
+rajiv <rajivkumarnandv...@gmail.com>
+Benson Margulies <bimargul...@gmail.com>
+Stuart McCulloch <mccu...@sonatype.com>
+Laird Nelson <ljnel...@gmail.com>
+Barrie Treloar <baerr...@gmail.com>
+Graham Leggett <minf...@sharp.fm>
+Tommy Svensson <to...@natusoft.se>

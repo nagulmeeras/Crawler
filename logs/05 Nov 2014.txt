@@ -1,0 +1,7 @@
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Curtis Rueden <ctrue...@wisc.edu>
+Barrie Treloar <baerr...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+khmarba...@apache.org (Karl Heinz Marbaise)

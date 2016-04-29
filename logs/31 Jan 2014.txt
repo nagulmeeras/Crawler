@@ -1,0 +1,14 @@
+Stephane Nicoll <stephane.nic...@gmail.com>
+"Matthias Mayer" <matthias....@gmx.de>
+Anders Hammar <and...@hammar.net>
+Stephane Nicoll <stephane.nic...@gmail.com>
+Anders Hammar <and...@hammar.net>
+laredotornado-3 <laredotorn...@gmail.com>
+"Mark Derricutt" <m...@talios.com>
+Anders Hammar <and...@hammar.net>
+"Mark Derricutt" <m...@talios.com>
+Stephane Nicoll <stephane.nic...@gmail.com>
+cyrduf <cyr...@free.fr>
+cyrduf <cyr...@free.fr>
+Ron Wheeler <rwhee...@artifact-software.com>
+Stephane Nicoll <stephane.nic...@gmail.com>

@@ -1,0 +1,28 @@
+"Robert Scholte" <rfscho...@apache.org>
+Ron Wheeler <rwhee...@artifact-software.com>
+james northrup <northrup.ja...@gmail.com>
+domi <d...@fortysix.ch>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+William Ferguson <william.fergu...@xandar.com.au>
+Graham Leggett <minf...@sharp.fm>
+Alexander <a...@j2anywhere.com>
+William Ferguson <william.fergu...@xandar.com.au>
+"Puncel, Robert (393J)" <Robert.Pun...@jpl.nasa.gov>
+David Hoffer <dhoff...@gmail.com>
+Arnaud bourree <arnaud.bour...@gmail.com>
+William Ferguson <william.fergu...@xandar.com.au>
+"Preston, Dale" <Dale.Pres...@conocophillips.com>
+Paul Benedict <pbened...@apache.org>
+Ron Wheeler <rwhee...@artifact-software.com>
+Mark Eggers <its_toas...@yahoo.com.INVALID>
+Ron Wheeler <rwhee...@artifact-software.com>
+William Ferguson <william.fergu...@xandar.com.au>
+Ron Wheeler <rwhee...@artifact-software.com>
+Martin Gainty <mgai...@hotmail.com>
+Steven Schlansker <stevenschlans...@gmail.com>
+Maxim Solodovnik <solomax...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+David Hoffer <dhoff...@gmail.com>
+"Preston, Dale" <Dale.Pres...@conocophillips.com>
+David Hoffer <dhoff...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>

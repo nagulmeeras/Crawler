@@ -1,0 +1,13 @@
+"Manfred Moser" <manf...@mosabuam.com>
+"Robert Scholte" <rfscho...@apache.org>
+Jeffrey E Care <ca...@us.ibm.com>
+Deme Carv <demec...@gmail.com>
+Thomas Scheffler <thomas.scheff...@uni-jena.de>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Martin Hoeller <mar...@xss.co.at>
+Thomas Scheffler <thomas.scheff...@uni-jena.de>
+Benson Margulies <bimargul...@gmail.com>
+Jörg Schaible <joerg.schai...@swisspost.com>

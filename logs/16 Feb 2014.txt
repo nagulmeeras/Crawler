@@ -1,0 +1,28 @@
+David Law <m2ecli...@apconsult.de>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+David Law <m2ecli...@apconsult.de>
+Anders Hammar <and...@hammar.net>
+Martin Gainty <mgai...@hotmail.com>
+Stuart McCulloch <mccu...@gmail.com>
+"Robert Scholte" <rfscho...@apache.org>
+Wayne Fay <wayne...@gmail.com>
+David Law <m2ecli...@apconsult.de>
+Wayne Fay <wayne...@gmail.com>
+Martin Gainty <mgai...@hotmail.com>
+Anders Hammar <and...@hammar.net>
+Ron Wheeler <rwhee...@artifact-software.com>
+David Law <m2ecli...@apconsult.de>
+David Law <m2ecli...@apconsult.de>
+Henrik Skriver Rasmussen <skrive...@gmail.com>
+Martin Gainty <mgai...@hotmail.com>
+Stuart McCulloch <mccu...@gmail.com>
+LevskiWeng <levskiw...@gmail.com>
+Wayne Fay <wayne...@gmail.com>
+Henrik Skriver Rasmussen <skrive...@gmail.com>
+David Law <m2ecli...@apconsult.de>
+Henrik Skriver Rasmussen <skrive...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+"Robert Scholte" <rfscho...@apache.org>
+Ron Wheeler <rwhee...@artifact-software.com>
+Dan Tran <dant...@gmail.com>
+Stuart McCulloch <mccu...@gmail.com>

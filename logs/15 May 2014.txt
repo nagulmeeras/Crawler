@@ -1,0 +1,11 @@
+Dariusz Jurojć <dariusz.jur...@daprog.pl>
+Paul Benedict <pbened...@apache.org>
+Anders Hammar <and...@hammar.net>
+Andy Abendschein <aabendsch...@powertagging.com>
+Barrie Treloar <baerr...@gmail.com>
+"Robert Scholte" <rfscho...@apache.org>
+Bernd Eckenfels <e...@zusammenkunft.net>
+Bernd Eckenfels <e...@zusammenkunft.net>
+Dan Tran <dant...@gmail.com>
+Dan Tran <dant...@gmail.com>
+Jason van Zyl <ja...@takari.io>

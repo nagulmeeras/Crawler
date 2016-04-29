@@ -1,0 +1,28 @@
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Maxim Solodovnik <solomax...@gmail.com>
+Alex Karasulu <akaras...@apache.org>
+James Mao <m...@ebay.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Wayne Fay <wayne...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+blipsman <b_lips...@yahoo.com>
+James Mao <m...@ebay.com>
+Benson Margulies <bimargul...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Baptiste Mathus <bmat...@batmat.net>
+"Mao, James(Maode)" <m...@ebay.com>
+Bernd Eckenfels <e...@zusammenkunft.net>
+Martin Egge <martin.e...@rmcon.de>
+Ron Wheeler <rwhee...@artifact-software.com>
+shriharsh <l.shriha...@gmail.com>
+Dennis Lundberg <denn...@apache.org>
+D Vijay <vijayd1...@gmail.com>
+blipsman <b_lips...@yahoo.com>
+Maxim Solodovnik <solomax...@gmail.com>
+Julien Martin <bal...@gmail.com>
+Anders Hammar <and...@hammar.net>
+Michael Osipov <micha...@apache.org>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Vishal Kumar Gupta <groups...@gmail.com>
+Adrien Rivard <adrien.riv...@gmail.com>

@@ -1,0 +1,7 @@
+Baptiste Mathus <bmat...@batmat.net>
+Ron Wheeler <rwhee...@artifact-software.com>
+Dariusz Jurojć <dariusz.jur...@daprog.pl>
+Bruce Wen <bruce....@ericsson.com>
+Hervé BOUTEMY <herve.bout...@free.fr>
+Niranjan Rao <nhr...@gmail.com>
+William Ferguson <william.fergu...@xandar.com.au>

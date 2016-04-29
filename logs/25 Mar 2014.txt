@@ -1,0 +1,16 @@
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Henrik Østerlund Gram <henrik.g...@gmail.com>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Stephane Nicoll <stephane.nic...@gmail.com>
+Jason van Zyl <ja...@takari.io>
+Hervé BOUTEMY <herve.bout...@free.fr>
+Jason van Zyl <ja...@takari.io>
+Anders Hammar <and...@hammar.net>
+Christian Schlichtherle <christ...@schlichtherle.de>
+"Mark Derricutt" <m...@talios.com>
+Eric Kolotyluk <eric.koloty...@gmail.com>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+"Mauri, Richard" <richard.ma...@sap.com>
+"Manfred Moser" <manf...@mosabuam.com>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Jason van Zyl <ja...@takari.io>

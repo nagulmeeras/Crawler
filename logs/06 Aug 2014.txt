@@ -1,0 +1,8 @@
+"Robert Scholte" <rfscho...@apache.org>
+Dan Tran <dant...@gmail.com>
+Francois MAROT <francois.ma...@gmail.com>
+Alexander Reelsen <...@spinscale.de>
+Wayne Fay <wayne...@gmail.com>
+Justin Georgeson <JGeorge...@lgc.com>
+Arnaud Héritier <aherit...@gmail.com>
+"Henning Moll" <newsSc...@gmx.de>

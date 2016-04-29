@@ -1,0 +1,7 @@
+Hervé BOUTEMY <herve.bout...@free.fr>
+Dan Tran <dant...@gmail.com>
+<org.apache.maven.u...@io7m.com>
+Laird Nelson <ljnel...@gmail.com>
+<org.apache.maven.u...@io7m.com>
+<org.apache.maven.u...@io7m.com>
+Baptiste Mathus <bmat...@batmat.net>

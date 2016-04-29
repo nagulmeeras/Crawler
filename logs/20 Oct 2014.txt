@@ -1,0 +1,11 @@
+Henning Schmiedehausen <henn...@schmiedehausen.org>
+Jason van Zyl <ja...@takari.io>
+David Hoffer <dhoff...@gmail.com>
+Bernd Eckenfels <e...@zusammenkunft.net>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Barrie Treloar <baerr...@gmail.com>
+James Green <james.mk.gr...@gmail.com>
+Barrie Treloar <baerr...@gmail.com>
+David Hoffer <dhoff...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Jason van Zyl <ja...@takari.io>

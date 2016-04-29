@@ -1,0 +1,38 @@
+Laird Nelson <ljnel...@gmail.com>
+"Omar@Gmail" <omarnet...@googlemail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Tommy Svensson <to...@natusoft.se>
+Tamás Cservenák <ta...@cservenak.net>
+"Omar@Gmail" <omarnet...@googlemail.com>
+Russell Gold <russell.g...@oracle.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Tony Chemit <tche...@apache.org>
+Barrie Treloar <baerr...@gmail.com>
+Tommy Svensson <to...@natusoft.se>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+adilaijaz <a...@relateiq.com>
+Alejandro.E...@miranda.com
+Laird Nelson <ljnel...@gmail.com>
+Baptiste Mathus <bmat...@batmat.net>
+Adam Retter <adam.ret...@googlemail.com>
+"jacqueline George" <jacquelinegeo...@balance.eclipse.co.uk>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Tony Chemit <tche...@apache.org>
+Robert Kuropkat <rkurop...@t-sciences.com>
+Laird Nelson <ljnel...@gmail.com>
+Thomas Broyer <t.bro...@gmail.com>
+Richard Sand <rs...@idfconnect.com>
+Russell Gold <russell.g...@oracle.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Thomas Broyer <t.bro...@gmail.com>
+Tony Chemit <che...@codelutin.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Russell Gold <russell.g...@oracle.com>
+Alejandro.E...@miranda.com
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+"Lyons, Roy" <Roy.Ly...@cmegroup.com>
+erich8 <Eric.Herrm...@intermedix.com>
+JBaruch <jbar...@jfrog.com>
+Curtis Rueden <ctrue...@wisc.edu>
+Stephen Connolly <stephen.alan.conno...@gmail.com>

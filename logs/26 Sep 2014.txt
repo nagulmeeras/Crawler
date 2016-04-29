@@ -1,0 +1,6 @@
+Doug Johnson <djoh...@co.pierce.wa.us>
+Kevin Burton <bur...@spinn3r.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Baptiste Mathus <bapti...@codehaus.org>
+Dan Tran <dant...@gmail.com>
+"Mark Derricutt" <m...@talios.com>

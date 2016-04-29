@@ -1,0 +1,6 @@
+Stephane Nicoll <stephane.nic...@gmail.com>
+Wayne Fay <wayne...@gmail.com>
+Stephane Nicoll <stephane.nic...@gmail.com>
+Hervé Boutemy <hbout...@apache.org>
+Curtis Rueden <ctrue...@wisc.edu>
+Jörg Schaible <joerg.schai...@swisspost.com>

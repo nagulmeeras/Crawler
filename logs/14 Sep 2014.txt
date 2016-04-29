@@ -1,0 +1,6 @@
+Barrie Treloar <baerr...@gmail.com>
+"Mark Derricutt" <m...@talios.com>
+"Mark Derricutt" <m...@talios.com>
+khmarba...@apache.org (Karl Heinz Marbaise)
+Fedor Belov <fbe...@gramant.ru>
+Graham Leggett <minf...@sharp.fm>

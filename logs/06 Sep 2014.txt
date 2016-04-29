@@ -1,0 +1,6 @@
+Stefano Fornari <stefano.forn...@gmail.com>
+Érico <erico...@gmail.com>
+Kevin Burton <bur...@spinn3r.com>
+"Robert Scholte" <rfscho...@apache.org>
+Dan Tran <dant...@gmail.com>
+khmarba...@apache.org (Karl Heinz Marbaise)

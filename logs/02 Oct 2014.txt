@@ -1,0 +1,8 @@
+Olivier Lamy <ol...@apache.org>
+Barrie Treloar <baerr...@gmail.com>
+Mark Donszelmann <mark.donszelm...@gmail.com>
+David Hoffer <dhoff...@gmail.com>
+Curtis Rueden <ctrue...@wisc.edu>
+Michael Osipov <micha...@apache.org>
+"Manfred Moser" <manf...@mosabuam.com>
+khmarba...@apache.org (Karl Heinz Marbaise)

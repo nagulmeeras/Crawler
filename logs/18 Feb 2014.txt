@@ -1,0 +1,10 @@
+Michael Osipov <micha...@apache.org>
+Andrius Velykis <andr...@velykis.lt>
+Barrie Treloar <baerr...@gmail.com>
+David Law <m2ecli...@apconsult.de>
+Martin Gainty <mgai...@hotmail.com>
+Andrius Velykis <andr...@velykis.lt>
+Sartaj Hundal <vektor.kni...@gmail.com>
+Ron Bets <ron.b...@oracle.com>
+"Mark Derricutt" <m...@talios.com>
+Bezuhlyi <bezuh...@gmail.com>

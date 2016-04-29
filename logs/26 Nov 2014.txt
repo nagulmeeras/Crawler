@@ -1,0 +1,20 @@
+Martin Hoeller <mar...@xss.co.at>
+Tony Jewell <tony.jew...@cregganna.com>
+Ryan Connolly <ryn...@gmail.com>
+Hervé BOUTEMY <herve.bout...@free.fr>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Bernd Eckenfels <e...@zusammenkunft.net>
+Barrie Treloar <baerr...@gmail.com>
+"Mark H. Wood" <mw...@IUPUI.Edu>
+Kristian Rosenvold <krosenv...@apache.org>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Dan Tran <dant...@gmail.com>
+Eduard Moraru <enygma2...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Raphael Ackermann <raphael.ackerm...@gmail.com>
+Alejandro.E...@grassvalley.com
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Daniel Kulp <dk...@apache.org>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Deme Carv <demec...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>

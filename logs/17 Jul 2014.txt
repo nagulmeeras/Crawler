@@ -1,0 +1,12 @@
+"Robert Scholte" <rfscho...@apache.org>
+Anders Hammar <and...@hammar.net>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Jörg Schaible <joerg.schai...@swisspost.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+"Zerbe, John W" <john.ze...@bnymellon.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Ron Wheeler <rwhee...@artifact-software.com>
+Curtis Rueden <ctrue...@wisc.edu>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Cristiano Gavião <cvgav...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>

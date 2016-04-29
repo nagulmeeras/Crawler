@@ -1,0 +1,16 @@
+David Delbecq <de...@meteo.be>
+Curtis Rueden <ctrue...@wisc.edu>
+Dan Tran <dant...@gmail.com>
+Dan Tran <dant...@gmail.com>
+Paul Benedict <pbened...@apache.org>
+Stuart McCulloch <mccu...@gmail.com>
+Glenn Brown <ghbrown60...@gmail.com>
+Tim Wu T <tim.t...@ericsson.com>
+Curtis Rueden <ctrue...@wisc.edu>
+Anders Hammar <and...@hammar.net>
+Paul Benedict <pbened...@apache.org>
+Dan Tran <dant...@gmail.com>
+Benson Margulies <bimargul...@gmail.com>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Curtis Rueden <ctrue...@wisc.edu>
+wc...@wawanesa.com

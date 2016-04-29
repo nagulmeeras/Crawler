@@ -1,0 +1,8 @@
+Hervé Boutemy <hbout...@apache.org>
+Dennis Lundberg <denn...@apache.org>
+khmarba...@apache.org (Karl Heinz Marbaise)
+"S. Ali Tokmen" <nos...@alishomepage.com>
+Hervé Boutemy <hbout...@apache.org>
+Martin Grigorov <martin.grigo...@gmail.com>
+Martin Gainty <mgai...@hotmail.com>
+"S. Ali Tokmen" <nos...@alishomepage.com>

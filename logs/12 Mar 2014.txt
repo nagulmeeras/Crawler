@@ -1,0 +1,22 @@
+Baptiste Mathus ...@batmat.net>
+Christofer Dutz <christofer.d...@c-ware.de>
+Baptiste Mathus ...@batmat.net>
+Michael Osipov <micha...@apache.org>
+"Mauri, Richard" <richard.ma...@sap.com>
+David Hoffer <dhoff...@gmail.com>
+yk <yk.m...@gmail.com>
+Maxim Solodovnik <solomax...@gmail.com>
+"Mao, James(Maode)" <m...@ebay.com>
+Martin Egge <martin.e...@rmcon.de>
+Bernd Eckenfels <e...@zusammenkunft.net>
+Wayne Fay <wayne...@gmail.com>
+Bernd Eckenfels <e...@zusammenkunft.net>
+Andreas Gudian <andreas.gud...@gmail.com>
+Tamás Cservenák <ta...@cservenak.net>
+Julien CARSIQUE <jcarsi...@nuxeo.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Anders Hammar <and...@hammar.net>
+Curtis Rueden <ctrue...@wisc.edu>
+Max Calderoni <max.calder...@gmail.com>
+Julien CARSIQUE <jcarsi...@nuxeo.com>
+Christofer Dutz <christofer.d...@c-ware.de>

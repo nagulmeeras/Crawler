@@ -1,0 +1,8 @@
+enrique bernal ruiz <kbernalr...@gmail.com>
+Daniel Pocock <dan...@pocock.com.au>
+LevskiWeng <levskiw...@gmail.com>
+Stephen Connolly <steph...@apache.org>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Tim Wu T <tim.t...@ericsson.com>
+"Juergen Hartl" <Juergen.Ha...@jku.at>
+Barrie Treloar <baerr...@gmail.com>

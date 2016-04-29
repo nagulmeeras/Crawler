@@ -1,0 +1,5 @@
+"Manfred Moser" <manf...@mosabuam.com>
+Subramanian Olagappan <osu...@gmail.com>
+Mirko Friedenhagen <mfriedenha...@apache.org>
+Benson Margulies <bimargul...@apache.org>
+Mirko Friedenhagen <mfriedenha...@gmail.com>

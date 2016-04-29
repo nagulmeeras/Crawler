@@ -1,0 +1,3 @@
+"Arnaud Héritier" <aherit...@gmail.com>
+"domi@fortysix.ch" <d...@fortysix.ch>
+Olivier Lamy <ol...@apache.org>

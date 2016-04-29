@@ -1,0 +1,41 @@
+Adrien Rivard <adrien.riv...@gmail.com>
+Martin Gainty <mgai...@hotmail.com>
+Russell Gold <r...@gold-family.us>
+Hervé BOUTEMY <herve.bout...@free.fr>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Mark Eggers <its_toas...@yahoo.com.INVALID>
+Kristian Rosenvold <kristian.rosenv...@gmail.com>
+James Green <james.mk.gr...@gmail.com>
+Arnaud Héritier <aherit...@gmail.com>
+Raphael Ackermann <raphael.ackerm...@gmail.com>
+Michael Osipov <micha...@apache.org>
+Paul Benedict <pbened...@apache.org>
+"Gribnau, Phillip" <pgrib...@informatica.com>
+Olivier Lamy <ol...@apache.org>
+Alejandro.E...@grassvalley.com
+"Gribnau, Phillip" <pgrib...@informatica.com>
+Mark Struberg <strub...@yahoo.de>
+Alejandro.E...@grassvalley.com
+Matt Benson <gudnabr...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Alexandre BRETET <bre...@gmail.com>
+Jeroen Hoek <jer...@lable.org>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Tamas Cservenak <ta...@cservenak.net>
+Kristian Rosenvold <kristian.rosenv...@gmail.com>
+Maxim Solodovnik <solomax...@gmail.com>
+Alejandro.E...@grassvalley.com
+Niranjan Rao <nhr...@gmail.com>
+"Gribnau, Phillip" <pgrib...@informatica.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Matt Benson <gudnabr...@gmail.com>
+thorsten.h...@vkb.de
+"Alexander Kriegisch" <alexan...@kriegisch.name>
+Michael Osipov <micha...@apache.org>
+Mark Eggers <its_toas...@yahoo.com.INVALID>
+Tamas Cservenak <ta...@cservenak.net>
+Paul Benedict <pbened...@apache.org>
+domi <d...@fortysix.ch>

@@ -1,0 +1,11 @@
+Reinhard Nägele <reinhard.naeg...@mgm-tp.com>
+Dan Tran <dant...@gmail.com>
+Paul Benedict <pbened...@apache.org>
+Martin Gainty <mgai...@hotmail.com>
+Tommy Svensson <to...@natusoft.se>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Alexddupree <alexddup...@gmail.com>
+Paul Benedict <pbened...@apache.org>
+Russ Tremain <ru...@releasetools.org>
+Stephen Connolly <steph...@apache.org>
+Alexddupree <alexddup...@gmail.com>

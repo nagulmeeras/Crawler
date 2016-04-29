@@ -1,0 +1,39 @@
+Ron Wheeler <rwhee...@artifact-software.com>
+Martin Hoeller <mar...@xss.co.at>
+Baptiste Mathus <bmat...@batmat.net>
+Martin Hoeller <mar...@xss.co.at>
+Wayne Fay <wayne...@gmail.com>
+Martin Hoeller <mar...@xss.co.at>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+ghostwolf59 <martin.cederv...@commerce.wa.gov.au>
+"James Nord (jnord)" <jn...@cisco.com>
+Alexander Kriegisch <Alexan...@Kriegisch.name>
+Thomas Broyer <t.bro...@gmail.com>
+Raphael André Bauer <raphael.andre.ba...@gmail.com>
+Wayne Fay <wayne...@gmail.com>
+ghostwolf59 <martin.cederv...@commerce.wa.gov.au>
+ghostwolf59 <martin.cederv...@commerce.wa.gov.au>
+Hervé BOUTEMY <herve.bout...@free.fr>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Justin Georgeson <JGeorge...@lgc.com>
+Thomas Broyer <t.bro...@gmail.com>
+Martin Hoeller <mar...@xss.co.at>
+Baptiste Mathus ...@batmat.net>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+ghostwolf59 <martin.cederv...@commerce.wa.gov.au>
+ghostwolf59 <martin.cederv...@commerce.wa.gov.au>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Mark Eggers <its_toas...@yahoo.com>
+Baptiste Mathus <bmat...@batmat.net>
+Laird Nelson <ljnel...@gmail.com>
+"Robert Scholte" <rfscho...@apache.org>
+Baptiste Mathus <bmat...@batmat.net>
+Laird Nelson <ljnel...@gmail.com>
+"Robert Scholte" <rfscho...@apache.org>
+Baptiste Mathus <bmat...@batmat.net>
+mkarg <k...@quipsy.de>
+mkarg <k...@quipsy.de>
+Laird Nelson <ljnel...@gmail.com>
+Martin Hoeller <mar...@xss.co.at>
+ghostwolf59 <martin.cederv...@commerce.wa.gov.au>

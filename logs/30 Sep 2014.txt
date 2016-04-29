@@ -1,0 +1,22 @@
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Paul Benedict <pbened...@apache.org>
+Les Hartzman <lhartz...@gmail.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+"Mark Derricutt" <m...@talios.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Jeremy Long <jeremy.l...@gmail.com>
+Tamás Cservenák <ta...@cservenak.net>
+Anders Hammar <and...@hammar.net>
+Laird Nelson <ljnel...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Hervé BOUTEMY <herve.bout...@free.fr>
+"Manfred Moser" <manf...@mosabuam.com>
+David Dillard <ddill...@symantec.com>
+"James Nord (jnord)" <jn...@cisco.com>
+Shaik Baji <shaikbaji.for...@gmail.com>
+Hervé BOUTEMY <herve.bout...@free.fr>
+"James Nord (jnord)" <jn...@cisco.com>
+Les Hartzman <lhartz...@gmail.com>
+"James Nord (jnord)" <jn...@cisco.com>
+Anders Hammar <and...@hammar.net>
+Karl Heinz Marbaise <khmarba...@gmx.de>

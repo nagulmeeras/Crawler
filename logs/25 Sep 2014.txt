@@ -1,0 +1,11 @@
+"James Nord (jnord)" <jn...@cisco.com>
+<cody.a.fy...@wellsfargo.com>
+domi <d...@fortysix.ch>
+Anders Hammar <and...@hammar.net>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Hervé BOUTEMY <herve.bout...@free.fr>
+Steven Schlansker <stevenschlans...@gmail.com>
+"Antti O." <antti.ollilainen+nab...@gmail.com>
+"James Nord (jnord)" <jn...@cisco.com>
+khmarba...@apache.org (Karl Heinz Marbaise)
+Stephen Connolly <stephen.alan.conno...@gmail.com>

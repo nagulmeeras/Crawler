@@ -1,0 +1,14 @@
+Martin Todorov <carlspr...@gmail.com>
+Bernd Eckenfels <e...@zusammenkunft.net>
+Olivier Lamy <ol...@apache.org>
+illcar <ready4...@gmail.com>
+Benson Margulies <bimargul...@apache.org>
+Brice Argenson <bargen...@gmail.com>
+khmarba...@apache.org (Karl Heinz Marbaise)
+bargenson_ <bargen...@gmail.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+"KARR, DAVID" <dk0...@att.com>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+"Manfred Moser" <manf...@mosabuam.com>
+Luis Villa <lvil...@gmail.com>
+Benson Margulies <bimargul...@apache.org>

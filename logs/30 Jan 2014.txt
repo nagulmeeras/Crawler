@@ -1,0 +1,7 @@
+"Matthias Mayer" <matthias....@gmx.de>
+"Mark Derricutt" <m...@talios.com>
+Stephane Nicoll <stephane.nic...@gmail.com>
+Anders Hammar <and...@hammar.net>
+Karl Heinz Marbaise <khmarba...@gmx.de>
+Mirko Friedenhagen <mfriedenha...@gmail.com>
+Stephane Nicoll <stephane.nic...@gmail.com>

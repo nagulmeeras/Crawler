@@ -1,0 +1,8 @@
+<org.apache.maven.u...@io7m.com>
+Dan Tran <dant...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Baptiste Mathus <bmat...@batmat.net>
+Brian Jackson <br...@jaxzin.com>
+Dan Tran <dant...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+<org.apache.maven.u...@io7m.com>

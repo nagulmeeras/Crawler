@@ -1,0 +1,16 @@
+Benson Margulies <bimargul...@gmail.com>
+Simone Tripodi <simonetrip...@apache.org>
+Benson Margulies <bimargul...@gmail.com>
+Benoît Berthonneau <ben...@berthonneau.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Stuart McCulloch <mccu...@gmail.com>
+laredotornado-3 <laredotorn...@gmail.com>
+Baptiste Mathus <bmat...@batmat.net>
+Alejandro.E...@miranda.com
+Anders Hammar <and...@hammar.net>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Yamil Medina <yamil....@gmail.com>
+Benoît Berthonneau <ben...@berthonneau.com>
+Stuart McCulloch <mccu...@gmail.com>
+Alexander Kriegisch <Alexan...@Kriegisch.name>
+Curtis Rueden <ctrue...@wisc.edu>

@@ -1,0 +1,3 @@
+Ron Wheeler <rwhee...@artifact-software.com>
+Jörg Schaible <joerg.schai...@gmx.de>
+Robert Metzger <rmetz...@apache.org>

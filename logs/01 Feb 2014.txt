@@ -1,0 +1,3 @@
+Martijn Verburg <martijnverb...@gmail.com>
+Russ Tremain <ru...@releasetools.org>
+Benoît Berthonneau <ben...@berthonneau.com>

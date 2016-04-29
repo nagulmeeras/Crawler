@@ -1,0 +1,29 @@
+Adam Retter <adam.ret...@googlemail.com>
+Paul Benedict <pbened...@apache.org>
+onlypq <onl...@gmail.com>
+Wayne Fay <wayne...@gmail.com>
+onlypq <onl...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Adam Retter <adam.ret...@googlemail.com>
+Adam Retter <adam.ret...@googlemail.com>
+Ron Wheeler <rwhee...@artifact-software.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Jeffrey E Care <ca...@us.ibm.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Ziga GREGORIC <ziga.grego...@gmail.com>
+Jim Garrison <jim.garri...@nwea.org>
+Benson Margulies <bimargul...@apache.org>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+"Lyons, Roy" <Roy.Ly...@cmegroup.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+"Mark Derricutt" <m...@talios.com>
+Baptiste Mathus <bmat...@batmat.net>
+Jim Garrison <jim.garri...@nwea.org>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
+Tim Pizey <t...@paneris.org>

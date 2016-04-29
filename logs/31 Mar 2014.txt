@@ -1,0 +1,9 @@
+Martin Gainty <mgai...@hotmail.com>
+Christian Domsch <christian.dom...@assentis.com>
+<org.apache.maven.u...@io7m.com>
+Kristian Rosenvold <kristian.rosenv...@gmail.com>
+Martin Gainty <mgai...@hotmail.com>
+manmaujin2 <john....@oocl.com>
+<org.apache.maven.u...@io7m.com>
+Anders Hammar <and...@hammar.net>
+Steven Schlansker <stevenschlans...@gmail.com>

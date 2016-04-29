@@ -1,0 +1,5 @@
+lee json <jsonlee...@gmail.com>
+Olivier Lamy <ol...@apache.org>
+ssiegl <stefan.si...@iwes.fraunhofer.de>
+"Manfred Moser" <manf...@mosabuam.com>
+Garvin LeClaire <garvin.lecla...@gmail.com>

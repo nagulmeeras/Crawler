@@ -1,0 +1,11 @@
+Martin Gainty <mgai...@hotmail.com>
+Jörg Schaible <joerg.schai...@swisspost.com>
+hanuman <hanumannallap...@gmail.com>
+khmarba...@apache.org (Karl Heinz Marbaise)
+Christofer Dutz <christofer.d...@c-ware.de>
+Kalle Korhonen <kalle.o.korho...@gmail.com>
+Dan Tran <dant...@gmail.com>
+Christofer Dutz <christofer.d...@c-ware.de>
+Hervé Boutemy <hbout...@apache.org>
+Jason van Zyl <ja...@takari.io>
+Stephen Connolly <stephen.alan.conno...@gmail.com>
