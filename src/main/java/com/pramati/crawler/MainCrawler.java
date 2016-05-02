@@ -3,7 +3,6 @@ package com.pramati.crawler;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
-import java.util.concurrent.ConcurrentHashMap;
 
 import org.apache.log4j.Logger;
 
@@ -14,10 +13,7 @@ import com.pramati.scrapservices.UrlScrappperImpl;
 import com.pramati.utils.FileUtils;
 
 public class MainCrawler {
-	public static Map<String, Integer> urlMap = new ConcurrentHashMap<String, Integer>();
-	public static Map<String, Integer> mailMap = new HashMap<String, Integer>();
 	final static Logger logger = Logger.getLogger(MainCrawler.class);
-	public static String type = null;
 
 	public static void main(String args[]) {
 
@@ -26,20 +22,26 @@ public class MainCrawler {
 			Properties properties = FileUtils.readProperties("src/main/resources/crawler.properties");
 			String baseUrl = properties.getProperty("MainUrl");
 			String yearToFetch = properties.getProperty("YearToFetch");
-
-			logger.info(baseUrl);
+			logger.info("Base url : "+baseUrl+"\n"+"Fetching year :"+yearToFetch);
+			
 			UrlScrapper urlScrapper = new UrlScrappperImpl(baseUrl, yearToFetch);
 			Map<String, String> firstLevelUrls = urlScrapper.getFirstLevelUrls();
-			System.out.println("size:" + firstLevelUrls.size());
+			logger.info("No of urls fetched :"+firstLevelUrls.size());
+			
 			Map<String, String> secondLevelUrls = new HashMap<String, String>();
 			PoolExecutor poolExecutor = new PoolExecutor(firstLevelUrls, secondLevelUrls, yearToFetch);
 			poolExecutor.executePoolForUrls();
+			logger.info("No of second level urls fetched:"+secondLevelUrls.size());
+			
 			Map<String, String> mailsMap = new HashMap<String, String>();
 			PoolExecutor poolExecutor2 = new PoolExecutor(secondLevelUrls, mailsMap, yearToFetch);
 			poolExecutor2.executePoolForMails();
+			logger.info("No of mails were scrapped :"+mailsMap.size());
+			
 			if (mailsMap.size() > 0) {
 				DaoService daoService = new DaoServiceImpl(mailsMap, yearToFetch);
 				daoService.save();
+				logger.info("Mails were successfully saved to file");
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
