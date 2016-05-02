@@ -4,11 +4,11 @@ import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
 
-import com.pramati.utils.FileUtilsTest;
+import com.pramati.scrapservices.TestMailScrapperImpl;
 
 public class TestProducer {
 	public static void main(String args[]){
-		Result result = JUnitCore.runClasses(FileUtilsTest.class);
+		Result result = JUnitCore.runClasses(TestMailScrapperImpl.class);
 	      for (Failure failure : result.getFailures()) {
 	         System.out.println(failure.toString());
 	      }
