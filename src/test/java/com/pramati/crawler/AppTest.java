@@ -1,4 +1,4 @@
-package com.pramati.Crawler;
+package com.pramati.crawler;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

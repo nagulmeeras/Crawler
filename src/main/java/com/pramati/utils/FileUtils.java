@@ -27,15 +27,17 @@ public class FileUtils {
 	}
 
 	public static Properties readProperties(String fileName) throws IOException {
-			File file = new File(fileName);
-			if (file.exists()) {
-				FileInputStream fis = new FileInputStream(file);
-				Properties properties = new Properties();
-				properties.load(fis);
-				fis.close();
-				return properties;
-			}
-			return null;
+		Properties properties = null;
+		File file = new File(fileName);
+		if (!file.exists()) {
+			file = new File(fileName.replace("src/main", "Crawler"));
+		}
+
+		FileInputStream fis = new FileInputStream(file);
+		properties = new Properties();
+		properties.load(fis);
+		fis.close();
+		return properties;
 	}
 	public static String generateMD5(String url) throws NoSuchAlgorithmException{
 		MessageDigest md = MessageDigest.getInstance("MD5");

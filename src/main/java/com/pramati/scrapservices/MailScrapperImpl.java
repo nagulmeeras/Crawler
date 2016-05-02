@@ -16,7 +16,8 @@ public class MailScrapperImpl implements MailScrapper {
 		this.url = url;
 	}
 
-	public Map<String, String> getMails() throws Exception {
+	public Map<String, String> getMails() throws Exception  {
+		
 		Map<String, String> mails = new HashMap<String, String>();
 		Document document = DocumentUtils.getDocumentObject(url);
 		if (document != null) {

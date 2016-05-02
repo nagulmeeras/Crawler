@@ -1,5 +1,6 @@
 package com.pramati.scrapservices;
 
+import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -18,13 +19,13 @@ public class UrlScrappperImpl implements UrlScrapper {
 		this.yearToFetch = yearToFetch;
 	}
 
-	public Map<String, String> getFirstLevelUrls() throws Exception {
+	public Map<String, String> getFirstLevelUrls() throws FileNotFoundException{
 		
 		Map<String, String> firstLevelUrls = new HashMap<String, String>();
 		Document document = DocumentUtils.getDocumentObject(url);
 		Elements links = document.select("a[href]");
 		for (Element link : links) {
-			if (link.attr("href").contains(yearToFetch) && link.attr("href").contains("date")) {
+			if (!yearToFetch.equals("") && link.attr("href").contains(yearToFetch) && link.attr("href").contains("date")) {
 				Document documentOfMonth = DocumentUtils.getDocumentObject(link.absUrl("href"));
 				Elements tableHeaders = documentOfMonth.select("th[class=pages]");
 				for (Element tableHeader : tableHeaders) {
@@ -50,7 +51,8 @@ public class UrlScrappperImpl implements UrlScrapper {
 		return firstLevelUrls;
 	}
 
-	public Map<String, String> getSecondLevelUrls() throws Exception {
+	public Map<String, String> getSecondLevelUrls() throws FileNotFoundException {
+		
 		Map<String, String> secondLevelUrls = new HashMap<String, String>();
 		Document document = DocumentUtils.getDocumentObject(url);
 		Elements tables = document.select("table[id=msglist]");
