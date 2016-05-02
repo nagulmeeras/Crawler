@@ -22,6 +22,7 @@ public class PoolExecutor {
 	public String yearToFetch;
 	public ExecutorService executorService;
 	public final static Logger logger = Logger.getLogger(PoolExecutor.class);
+
 	public PoolExecutor(Map<String, String> mapOfTasks, Map<String, String> sharedMap, String yearToFetch) {
 		this.mapOfTasks = mapOfTasks;
 		this.sharedMap = sharedMap;
@@ -30,36 +31,39 @@ public class PoolExecutor {
 	}
 
 	public void executePoolForUrls() throws Exception {
+		if (mapOfTasks != null && sharedMap != null && yearToFetch != null) {
+			for (String url : mapOfTasks.keySet()) {
 
-		for (String url : mapOfTasks.keySet()) {
-
-			UrlScrapper urlScrapper2 = new UrlScrappperImpl(url, yearToFetch);
-			RunnableScrapper runnableScrapper = new UrlRunnableScrapperImpl(urlScrapper2, sharedMap);
-			executorService.execute(runnableScrapper);
+				UrlScrapper urlScrapper2 = new UrlScrappperImpl(url, yearToFetch);
+				RunnableScrapper runnableScrapper = new UrlRunnableScrapperImpl(urlScrapper2, sharedMap);
+				executorService.execute(runnableScrapper);
+			}
+			executorService.shutdown();
+			while (!executorService.isTerminated()) {
+			}
+			logger.info("Executor service is shutdowned");
 		}
-		executorService.shutdown();
-		while (!executorService.isTerminated()) {
-		}
-		logger.info("Executor service is shutdowned");
 	}
 
 	public void executePoolForMails() throws Exception {
-		Properties properties = FileUtils.readProperties("DownloadedMailUrls.txt");
-		for (String url : mapOfTasks.keySet()) {
-			String md5Url = FileUtils.generateMD5(url);
-			if (properties != null && properties.contains(md5Url)) {
-				continue;
-			} else {
-				MailScrapper mailScrapper = new MailScrapperImpl(url);
-				RunnableScrapper runnableScrapper = new MailRunnableScrapperImpl(mailScrapper, sharedMap);
-				executorService.submit(runnableScrapper);
-				FileUtils.writeToFile("DownloadedMailUrls.txt", md5Url + "=" + md5Url, true);
+		if (mapOfTasks != null && sharedMap != null) {
+			Properties properties = FileUtils.readProperties("DownloadedMailUrls.txt");
+			for (String url : mapOfTasks.keySet()) {
+				String md5Url = FileUtils.generateMD5(url);
+				if (properties != null && properties.contains(md5Url)) {
+					continue;
+				} else {
+					MailScrapper mailScrapper = new MailScrapperImpl(url);
+					RunnableScrapper runnableScrapper = new MailRunnableScrapperImpl(mailScrapper, sharedMap);
+					executorService.submit(runnableScrapper);
+					FileUtils.writeToFile("DownloadedMailUrls.txt", md5Url + "=" + md5Url, true);
+				}
 			}
+			executorService.shutdown();
+			while (!executorService.isTerminated()) {
+			}
+			logger.info("Executor service is shutdowned");
 		}
-		executorService.shutdown();
-		while (!executorService.isTerminated()) {
-		}
-		logger.info("Executor service is shutdowned");
 	}
 
 }
