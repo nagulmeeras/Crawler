@@ -1,0 +1,17 @@
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/scrapservices/MailScrapper.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/dao/FileSystemMailSaverImpl.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/daoService/DaoServiceImpl.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/crawler/MainCrawler.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/dao/MailSaverDao.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/dao/DBMailSaverImpl.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/daoService/DaoService.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/bean/MailDataBean.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/scrapservices/UrlScrappperImpl.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/utils/DocumentUtils.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/scrapservices/UrlScrapper.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/scrapservices/UrlRunnableScrapperImpl.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/crawler/PoolExecutor.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/scrapservices/MailRunnableScrapperImpl.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/scrapservices/RunnableScrapper.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/utils/FileUtils.java
+/home/nagulmeeras/workspace/Crawler/src/main/java/com/pramati/scrapservices/MailScrapperImpl.java
