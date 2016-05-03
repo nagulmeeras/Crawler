@@ -32,14 +32,17 @@ public class FileUtils {
 		if (!file.exists()) {
 			file = new File(fileName.replace("src/main", "Crawler"));
 		}
-
-		FileInputStream fis = new FileInputStream(file);
-		properties = new Properties();
-		properties.load(fis);
-		fis.close();
+		if (file.exists()) {
+			FileInputStream fis = new FileInputStream(file);
+			properties = new Properties();
+			properties.load(fis);
+			logger.debug("properties are loaded from file :"+file.getName());
+			fis.close();
+		}
 		return properties;
 	}
-	public static String generateMD5(String url) throws NoSuchAlgorithmException{
+
+	public static String generateMD5(String url) throws NoSuchAlgorithmException {
 		MessageDigest md = MessageDigest.getInstance("MD5");
 		md.update(url.getBytes());
 		byte[] digest = md.digest();

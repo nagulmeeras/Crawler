@@ -23,6 +23,7 @@ public class MainCrawler {
 			String baseUrl = properties.getProperty("MainUrl");
 			String yearToFetch = properties.getProperty("YearToFetch");
 			logger.info("Base url : "+baseUrl+"\n"+"Fetching year :"+yearToFetch);
+			System.out.println("Base url : "+baseUrl+"\n"+"Fetching year :"+yearToFetch);
 			
 			UrlScrapper urlScrapper = new UrlScrappperImpl(baseUrl, yearToFetch);
 			Map<String, String> firstLevelUrls = urlScrapper.getFirstLevelUrls();
@@ -43,6 +44,7 @@ public class MainCrawler {
 				daoService.save();
 				logger.info("Mails were successfully saved to file");
 			}
+			
 		} catch (Exception e) {
 			e.printStackTrace();
 			logger.error(e.getMessage());

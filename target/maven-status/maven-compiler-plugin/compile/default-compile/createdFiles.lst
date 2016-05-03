@@ -1,0 +1,17 @@
+com/pramati/scrapservices/UrlScrapper.class
+com/pramati/scrapservices/MailScrapper.class
+com/pramati/dao/FileSystemMailSaverImpl.class
+com/pramati/scrapservices/UrlScrappperImpl.class
+com/pramati/scrapservices/UrlRunnableScrapperImpl.class
+com/pramati/dao/DBMailSaverImpl.class
+com/pramati/daoService/DaoServiceImpl.class
+com/pramati/daoService/DaoService.class
+com/pramati/scrapservices/MailRunnableScrapperImpl.class
+com/pramati/scrapservices/RunnableScrapper.class
+com/pramati/crawler/MainCrawler.class
+com/pramati/scrapservices/MailScrapperImpl.class
+com/pramati/dao/MailSaverDao.class
+com/pramati/utils/FileUtils.class
+com/pramati/utils/DocumentUtils.class
+com/pramati/bean/MailDataBean.class
+com/pramati/crawler/PoolExecutor.class
