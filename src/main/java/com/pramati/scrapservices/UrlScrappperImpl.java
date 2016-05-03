@@ -4,6 +4,7 @@ import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Map;
 
+import org.apache.log4j.Logger;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -11,9 +12,9 @@ import org.jsoup.select.Elements;
 import com.pramati.utils.DocumentUtils;
 
 public class UrlScrappperImpl implements UrlScrapper {
+	final static Logger logger = Logger.getLogger(UrlScrappperImpl.class);
 	public String url;
 	public String yearToFetch;
-
 	public UrlScrappperImpl(String url, String yearToFetch) {
 		this.url = url;
 		this.yearToFetch = yearToFetch;
@@ -36,14 +37,17 @@ public class UrlScrappperImpl implements UrlScrapper {
 								String pageWiseUrl = link.absUrl("href") + "?"
 										+ (Integer.parseInt(tableHeaderChild.text()) - 1);
 								firstLevelUrls.put(pageWiseUrl, "");
+								logger.debug("Url is added :"+pageWiseUrl);
 							}
 						}
 						/*
 						 * Here we will adding 0th indexed page
 						 * 
 						 */
-						if (!firstLevelUrls.containsKey(link.absUrl("href")))
+						if (!firstLevelUrls.containsKey(link.absUrl("href"))){
 							firstLevelUrls.put(link.absUrl("href"), "");
+							logger.debug("Url is added :"+link.absUrl("href"));
+						}
 					}
 				}
 			}
@@ -71,6 +75,7 @@ public class UrlScrappperImpl implements UrlScrapper {
 										if (childElement.hasAttr("href")) {
 											String url = childElement.absUrl("href");
 											secondLevelUrls.put(url, "");
+											logger.debug("adding second level url "+url);
 										}
 									}
 								}

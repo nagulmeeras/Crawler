@@ -21,7 +21,6 @@ public class MailScrapperImpl implements MailScrapper {
 		
 		Map<String, String> mails = new HashMap<String, String>();
 		Document document = DocumentUtils.getDocumentObject(url);
-		System.out.println(document.html());
 		if (document != null) {
 			Elements tableRows = document.select("tr[class]");
 			String mail_id = null;
